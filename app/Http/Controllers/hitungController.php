@@ -132,7 +132,7 @@ class hitungController extends Controller
         //     echo '<br>';
         // }
 
-        //dd($processor);
+        //dd($processor); yes
         //return view('kriteria', compact('result'))a;
     }
 
